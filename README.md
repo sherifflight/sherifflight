@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Dyakonov Evgeniy Alexandrovich
+
+
+
+#### Skills: 
+- 🔭 Language: PHP
+- 🌱 Frameworks: Laravel, Yii 2
+- 👯 DB: Mysql
+- 🤔 VCS: Git, Mercurial, SVN
+- 💬 Bug/Issue tracker: Redmine, Jira
+- 📫 OS: Linux, Mac OS
+- 😄 Another: Vagrant, Docker, Soft skills

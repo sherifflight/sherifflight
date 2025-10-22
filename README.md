@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 #### Skills: 
 - 🔭 Language: PHP
 - 🌱 Frameworks: Laravel, Yii 2
-- 👯 DB: Mysql
+- 👯 DB: Mysql, PostgreSQL
 - 🤔 VCS: Git, Mercurial, SVN
 - 💬 Bug/Issue tracker: Redmine, Jira
-- 📫 OS: Linux, Mac OS
+- 📫 OS: Linux, Mac OS, Windows
 - 😄 Another: Vagrant, Docker, Soft skills
